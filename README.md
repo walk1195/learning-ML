@@ -22,7 +22,7 @@ Below contains links to additional documentation and resources for different alg
 
 [Benchmarking documentation](https://scikit-learn.org/stable/modules/clustering.html#clustering-evaluation): Metrics to determine optimal clustering
 
-    (Go to 2.3.11. Clustering performance evaluation)
+(Go to 2.3.11. Clustering performance evaluation)
 
 ### Neural Networks (work in progress)
 
